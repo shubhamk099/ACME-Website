@@ -1,2 +1,2 @@
 # ACME-Website
-A simple static website I made after learning HTML and CSS.
+Simple static website I made while learning HTML, CSS.
